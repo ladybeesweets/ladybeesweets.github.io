@@ -574,7 +574,7 @@
               "authorBio": "Developer"
             },
             {
-              "text": "<p>Decorated Cookies start at $1/inch with up to 3 colors of icing. Prices change according to the designs and details.</p><p>Cake Pops start at $ 2</p><p>Cupcakes start at $2.75</p><p>Bundt Cakes start at $20</p>",
+              "text": "<p>Decorated Cookies start at $1/inch with up to 3 colors of icing. Prices change according to the designs and details.</p><p>Cake Pops start at $ 3</p><p>Cupcakes start at $2.75</p><p>Bundt Cakes start at $20</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
